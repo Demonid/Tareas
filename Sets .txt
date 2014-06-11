@@ -1,0 +1,141 @@
+ +  Set Furioso
+ 
+ +     Warrior  Arms
+ +   
+ +-- Set
+ +   40826 - Yelmo    -  furious gladiator´s plate helm
+ +   40866 - Hombros  -  furious gladiator´s plate shoulders
+ +   40789 - Pecho    -  furious gladiator´s plate chestpiece     
+ +   40807 - Guantes  -  furious gladiator´s plate guantlets
+ +   40847 - Pantalon -  furious gladiator´s plate legguards
+ +  
+ +-- Offset
+ +   46374 - Cuello    -  reletless gladiator´s pendant of sundering
+ +   42041 - Cuello    -  reletless gladiator´s pendant of triumph
+ +   42042 - Cuello    -  reletless gladiator´s pendant of victory
+ +   42081 - Capa      -  reletless gladiator´s cloak of triumph
+ +   42082 - Capa      -  reletless gladiator´s cloak of victory 
+ +   40890 - Brazal    -  reletless gladiator´s bracers of triumph
+ +   40883 - Cinturon  -  reletless gladiator´s girdle of triumph
+ +   40884 - Botas     -  reletless gladiator´s greaves of triumph
+ +   42119 - Anillo 1  -  reletless gladiator´s band of victory
+ +   42117 - Anillo 2  -  Furious Gladiator's Band of Triumph
+ +   42133 - Trinket 1 -  battlemaster´s fury
+ +   42134 - Trinket 2 -  battlemaster´s precision
+ +   42136 - Trinket   -  battlemaster´s rage
+ +   51378 - Trinket   -  medallion of the horde
+ +   51377 - Trinket   -  medallion of the alliance
+ +
+ +           Paladin retribution
+ +--  Set 
+ +   40828 - Yelmo     -  furious gladiator´s scaled helm 
+ +   40869 - Hombros   -  furious gladiator´s scaled shoulders
+ +   40788 - Pecho     -  furious gladiator´s scaled chestpiece
+ +   40808 - Guantes   -  furious gladiator´s scaled gauntlets
+ +   40849 - Pantalon  -  furious gladiator´s scaled legguards
+ +
+ +---         Paladin Holy
+ +   40933 -  Yelmo    -   furious gladiator´s ornamented headcover
+ +   40963 -  Hombros  -   furious gladiator´s ornamented spaulders
+ +   40907 -  Pecho    -   furious gladiator´s ornamented chestguard
+ +   40927 -  Guantes  -   furious gladiator´s ornamented  gloves
+ +   40939 -  Pantalon -   furious gladiator´s ornamented  legplates
+ +
+ +           Hunter
+ +   41157 -  Yelmo    -   furious gladiator´s chain helm
+ +   41217 -  Hombros  -   furious gladiator´s chain spaulders
+ +   41087 -  Pecho    -   furious gladiator´s chain armor
+ +   41143 -  Guantes  -   furious gladiator´s chain gauntlets
+ +   41205 -  Pantalon -   furious gladiator´s chain leggings
+ +
+ +           Rogue
+ +   41672 -  Yelmo    -   furious gladiator´s leather helm
+ +   41683 -  Hombros  -   furious gladiator´s leather spaulders
+ +   41650 -  Pecho    -   furious gladiator´s leather tunic
+ +   41767 -  Guantes  -   furious gladiator´s leather gloves
+ +   41655 -  Pantalon -   furious gladiator´s leather legguards
+ +  
+ +           Priest Holy
+ +   41854 -  Yelmo    -   furious gladiator´s mooncloth hood
+ +   41869 -  Hombros  -   furious gladiator´s mooncloth mantle
+ +   41859 -  Pecho    -   furious gladiator´s mooncloth robe
+ +   41874 -  Guantes  -   furious gladiator´s mooncloth gloves
+ +   41864 -  Pantalon -   furious gladiator´s mooncloth leggings
+ +
+ +           Priest Shadow
+ +   41915 - Yelmo     -   furious gladiator´s satin hood
+ +   41934 - Hombros   -   furious gladiator´s satin mantle
+ +   41921 - Pecho     -   furious gladiator´s satin robe
+ +   41940 - Guantes   -   furious gladiator´s satin gloves
+ +   41927 - Pantalon  -   furious gladiator´s satin leggings
+ +   
+ +           Death knight 
+ +   Set
+ +   40827 - Yelmo     -   furious gladiator´s dreaplate helm
+ +   40868 - Hombros   -   furious gladiator´s dreaplate shoulders
+ +   40787 - Pecho     -   furious gladiator´s dreaplate chestpiece
+ +   40809 - Guantes   -   furious gladiator´s dreaplate gauntlets
+ +   40848 - Pantalon  -   furious gladiator´s dreaplate legguards
+ +
+ +           Shaman restoration
+ +   
+ +   41013 - Yelmo     -   furious gladiator´s ringmail helm
+ +   41038 - Hombros   -   furious gladiator´s ringmail spaulders
+ +   40992 - Pecho     -   furious gladiator´s ringmail armor
+ +   41001 - Guantes   -   furious gladiator´s ringmail gauntlets
+ +   41027 - Pantalon  -   furious gladiator´s ringmail leggings
+ + 
+ +            Shaman Elemental
+ +
+ +   41019 - Yelmo     -   furious gladiator´s mail helm
+ +   41044 - Hombros   -   furious gladiator´s mail spaulders
+ +   40993 - Pecho     -   furious gladiator´s mail armor
+ +   41007 - Guantes   -   furious gladiator´s mail gauntlets
+ +   41033 - Pantalon  -   furious gladiator´s mail leggings
+ + 
+ +            Shaman enhancement
+ +   41151 -  Yelmo    -   furious gladiator´s linked helm 
+ +   41211 -  Hombros  -   furious gladiator´s linked spaulders
+ +   41081 -  Pecho    -   furious gladiator´s linked armor
+ +   41137 -  Guantes  -   furious gladiator´s linked gauntlets
+ +   41199 -  Pantalon -   furious gladiator´s linked leggings
+ +           
+ +            Mage
+ +   41946 -  Yelmo    -   furious gladiator´s silk cowl 
+ +   41965 -  Hombros  -   furious gladiator´s silk amice
+ +   41953 -  Pecho    -   furious gladiator´s silk raiment
+ +   41971 -  Guantes  -   furious gladiator´s silk handguards
+ +   41959 -  Pantalon -   furious gladiator´s silk trousers
+ +
+ +             Warlock
+ +   41993 -  Yelmo    -   furious gladiator´s felweave cowl
+ +   42011 -  Hombros  -   furious gladiator´s felweave amice
+ +   41998 -  Pecho    -   furious gladiator´s felweave raiment
+ +   42017 -  Guantes  -   furious gladiator´s felweave handguards
+ +   42005 -  Pantalon -   furious gladiator´s felweave trousers
+ +
+ +             Druid  restoration
+ +   41321 -  Yelmo    -   furious gladiator´s kodohide helm
+ +   41275 -  Hombros  -   furious gladiator´s kodohide spaulders
+ +   41310 -  Pecho    -   furious gladiator´s kodohide robes
+ +   41287 -  Guantes  -   furious gladiator´s kodohide gloves
+ +   42198 -  Pantalon -   furious gladiator´s kodohide legguards
+ +  
+ +             Druid balance
+ +   41327 -  Yelmo    -   furious gladiator´s wrymhide helm
+ +   41281 -  Hombros  -   furious gladiator´s wrymhide spaulders
+ +   41316 -  Pecho    -   furious gladiator´s wrymhide robes
+ +   41293 -  Guantes  -   furious gladiator´s wrymhide gloves
+ +   41304 -  Pantalon -   furious gladiator´s wrymhide legguards
+ + 
+ +             Druid Feral
+ +   41678 -  Yelmo    -   furious gladiator´s dragonhide helm
+ +   41715 -  Hombros  -   furious gladiator´s dragonhide spaulders 
+ +   41661 -  Pecho    -   furious gladiator´s dragonhide robes
+ +   41773 -  Guantes  -   furious gladiator´s dragonhide gloves
+ +   41667 -  Pantalon -   furious gladiator´s dragonhide legguards
+
+   
+
+
+  

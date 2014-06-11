@@ -1,4 +1,27 @@
-
-Este archivo tiene la unica utilidad de enseñar crear Commits, Pullear y Pushear del Repositorio de trabajo.
-
-Prueba Commit
+ +  Set Furioso
+ 
+ +     Guerrero
+ +   
+ +-- Set
+ +   40826 - Yelmo    -  furious gladiator´s plate helm
+ +   40866 - Hombros  -  furious gladiator´s plate shoulders
+ +   40789 - Pecho    -  furious gladiator´s plate chestpiece     
+ +   40807 - Guantes  -  furious gladiator´s plate guantlets
+ +   40847 - Pantalon -  furious gladiator´s plate legguards
+ +  
+ +-- Offset
+ +   46374 - Cuello    -  reletless gladiator´s pendant of sundering
+ +   42041 - Cuello    -  reletless gladiator´s pendant of triumph
+ +   42042 - Cuello    -  reletless gladiator´s pendant of victory
+ +   42081 - Capa      -  reletless gladiator´s cloak of triumph
+ +   42082 - Capa      -  reletless gladiator´s cloak of victory 
+ +   40890 - Brazal    -  reletless gladiator´s bracers of triumph
+ +   40883 - Cinturon  -  reletless gladiator´s girdle of triumph
+ +   40884 - Botas     -  reletless gladiator´s greaves of triumph
+ +   42119 - Anillo 1  -  reletless gladiator´s band of victory
+ +   42133 - Trinket 1 -  battlemaster´s fury
+ +   42134 - Trinket 2 -  battlemaster´s precision
+ +   42136 - Trinket   -  battlemaster´s rage
+ +   51378 - Trinket   -  medallion of the horde
+ +   51377 - Trinket   -  medallion of the alliance
+ 
