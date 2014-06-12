@@ -1,0 +1,212 @@
+ +  Set Furioso
+     
+ +     Warrior  Arms
+ +   
+ +-- Set
+ +   40826 - Yelmo    -  furious gladiator´s plate helm
+ +   40866 - Hombros  -  furious gladiator´s plate shoulders
+ +   40789 - Pecho    -  furious gladiator´s plate chestpiece     
+ +   40807 - Guantes  -  furious gladiator´s plate guantlets
+ +   40847 - Pantalon -  furious gladiator´s plate legguards
+ +  
+
+
+ +
+ +           Paladin retribution
+ +--  Set 
+ +   40828 - Yelmo     -  furious gladiator´s scaled helm 
+ +   40869 - Hombros   -  furious gladiator´s scaled shoulders
+ +   40788 - Pecho     -  furious gladiator´s scaled chestpiece
+ +   40808 - Guantes   -  furious gladiator´s scaled gauntlets
+ +   40849 - Pantalon  -  furious gladiator´s scaled legguards
+ +
+ +---         Paladin Holy
+ +   40933 -  Yelmo    -   furious gladiator´s ornamented headcover
+ +   40963 -  Hombros  -   furious gladiator´s ornamented spaulders
+ +   40907 -  Pecho    -   furious gladiator´s ornamented chestguard
+ +   40927 -  Guantes  -   furious gladiator´s ornamented  gloves
+ +   40939 -  Pantalon -   furious gladiator´s ornamented  legplates
+ +
+ +           Hunter
+ +   41157 -  Yelmo    -   furious gladiator´s chain helm
+ +   41217 -  Hombros  -   furious gladiator´s chain spaulders
+ +   41087 -  Pecho    -   furious gladiator´s chain armor
+ +   41143 -  Guantes  -   furious gladiator´s chain gauntlets
+ +   41205 -  Pantalon -   furious gladiator´s chain leggings
+ +
+ +           Rogue
+ +   41672 -  Yelmo    -   furious gladiator´s leather helm
+ +   41683 -  Hombros  -   furious gladiator´s leather spaulders
+ +   41650 -  Pecho    -   furious gladiator´s leather tunic
+ +   41767 -  Guantes  -   furious gladiator´s leather gloves
+ +   41655 -  Pantalon -   furious gladiator´s leather legguards
+ +  
+ +           Priest Holy
+ +   41854 -  Yelmo    -   furious gladiator´s mooncloth hood
+ +   41869 -  Hombros  -   furious gladiator´s mooncloth mantle
+ +   41859 -  Pecho    -   furious gladiator´s mooncloth robe
+ +   41874 -  Guantes  -   furious gladiator´s mooncloth gloves
+ +   41864 -  Pantalon -   furious gladiator´s mooncloth leggings
+ +
+ +           Priest Shadow
+ +   41915 - Yelmo     -   furious gladiator´s satin hood
+ +   41934 - Hombros   -   furious gladiator´s satin mantle
+ +   41921 - Pecho     -   furious gladiator´s satin robe
+ +   41940 - Guantes   -   furious gladiator´s satin gloves
+ +   41927 - Pantalon  -   furious gladiator´s satin leggings
+ +   
+ +           Death knight 
+ +   Set
+ +   40827 - Yelmo     -   furious gladiator´s dreaplate helm
+ +   40868 - Hombros   -   furious gladiator´s dreaplate shoulders
+ +   40787 - Pecho     -   furious gladiator´s dreaplate chestpiece
+ +   40809 - Guantes   -   furious gladiator´s dreaplate gauntlets
+ +   40848 - Pantalon  -   furious gladiator´s dreaplate legguards
+ +
+ +           Shaman restoration
+ +   
+ +   41013 - Yelmo     -   furious gladiator´s ringmail helm
+ +   41038 - Hombros   -   furious gladiator´s ringmail spaulders
+ +   40992 - Pecho     -   furious gladiator´s ringmail armor
+ +   41001 - Guantes   -   furious gladiator´s ringmail gauntlets
+ +   41027 - Pantalon  -   furious gladiator´s ringmail leggings
+ + 
+ +            Shaman Elemental
+ +
+ +   41019 - Yelmo     -   furious gladiator´s mail helm
+ +   41044 - Hombros   -   furious gladiator´s mail spaulders
+ +   40993 - Pecho     -   furious gladiator´s mail armor
+ +   41007 - Guantes   -   furious gladiator´s mail gauntlets
+ +   41033 - Pantalon  -   furious gladiator´s mail leggings
+ + 
+ +            Shaman enhancement
+ +   41151 -  Yelmo    -   furious gladiator´s linked helm 
+ +   41211 -  Hombros  -   furious gladiator´s linked spaulders
+ +   41081 -  Pecho    -   furious gladiator´s linked armor
+ +   41137 -  Guantes  -   furious gladiator´s linked gauntlets
+ +   41199 -  Pantalon -   furious gladiator´s linked leggings
+ +           
+ +            Mage
+ +   41946 -  Yelmo    -   furious gladiator´s silk cowl 
+ +   41965 -  Hombros  -   furious gladiator´s silk amice
+ +   41953 -  Pecho    -   furious gladiator´s silk raiment
+ +   41971 -  Guantes  -   furious gladiator´s silk handguards
+ +   41959 -  Pantalon -   furious gladiator´s silk trousers
+ +
+ +             Warlock
+ +   41993 -  Yelmo    -   furious gladiator´s felweave cowl
+ +   42011 -  Hombros  -   furious gladiator´s felweave amice
+ +   41998 -  Pecho    -   furious gladiator´s felweave raiment
+ +   42017 -  Guantes  -   furious gladiator´s felweave handguards
+ +   42005 -  Pantalon -   furious gladiator´s felweave trousers
+ +
+ +             Druid  restoration
+ +   41321 -  Yelmo    -   furious gladiator´s kodohide helm
+ +   41275 -  Hombros  -   furious gladiator´s kodohide spaulders
+ +   41310 -  Pecho    -   furious gladiator´s kodohide robes
+ +   41287 -  Guantes  -   furious gladiator´s kodohide gloves
+ +   42198 -  Pantalon -   furious gladiator´s kodohide legguards
+ +  
+ +             Druid balance
+ +   41327 -  Yelmo    -   furious gladiator´s wrymhide helm
+ +   41281 -  Hombros  -   furious gladiator´s wrymhide spaulders
+ +   41316 -  Pecho    -   furious gladiator´s wrymhide robes
+ +   41293 -  Guantes  -   furious gladiator´s wrymhide gloves
+ +   41304 -  Pantalon -   furious gladiator´s wrymhide legguards
+ + 
+ +             Druid Feral
+ +   41678 -  Yelmo    -   furious gladiator´s dragonhide helm
+ +   41715 -  Hombros  -   furious gladiator´s dragonhide spaulders 
+ +   41661 -  Pecho    -   furious gladiator´s dragonhide robes
+ +   41773 -  Guantes  -   furious gladiator´s dragonhide gloves
+ +   41667 -  Pantalon -   furious gladiator´s dragonhide legguards
+ + 
+ +  
+ +   Offset
+ +
+ +    +-- Offset
+ +   46374 - Cuello    -  reletless gladiator´s pendant of sundering
+ +   42041 - Cuello    -  reletless gladiator´s pendant of triumph
+ +   42042 - Cuello    -  reletless gladiator´s pendant of victory
+ +   42081 - Capa      -  reletless gladiator´s cloak of triumph
+ +   42082 - Capa      -  reletless gladiator´s cloak of victory 
+ +               plate   
+ +   40983 - Brazal    -  Furious Gladiator's Bracers of Salvation
+ +   40890 - Brazal    -  reletless gladiator´s bracers of triumph
+ +   40976 - Cinturon  -  Furious Gladiator's Girdle of Salvation
+ +   40881 - Cinturon  -  Furious Gladiator's Girdle of Triumph
+ +   40977 - Botas     -  Furious Gladiator's Greaves of Salvation
+ +   40882 - Botas     -  Furious Gladiator's Greaves of Triumph
+ +   
+ +
+ +
+ +            Leather
+ +   41840 - Brazal    -  Furious Gladiator's Armwraps of Triumph
+ +   41625 - Brazal    -  Furious Gladiator's Armwraps of Salvation
+ +   41640 - Brazal    -  Furious Gladiator's Armwraps of Dominance
+ +   41617 - Cinturon  -  Furious Gladiator's Belt of Salvation
+ +   41630 - Cinturon  -  Furious Gladiator's Belt of Dominance 
+ +   41832 - Cinturon  -  Furious Gladiator's Belt of Triumph
+ +   41836 - Botas     -  Furious Gladiator's Boots of Triumph
+ +   41621 - Botas     -  Furious Gladiator's Boots of Salvation
+ +   41635 - Botas     -  Furious Gladiator's Boots of Dominance
+ +             
+ +            Mail
+ +   41060 - Brazal    -  Furious Gladiator's Wristguards of Salvation
+ +   41065 - Brazal    -  Furious Gladiator's Wristguards of Dominance
+ +   41225 - Brazal    -  Furious Gladiator's Wristguards of Triumph
+ +   41235 - Cinturon  -  Furious Gladiator's Waistguard of Triumph
+ +   41051 - Cinturon  -  Furious Gladiator's Waistguard of Salvation
+ +   41065 - Cinturon  -  Furious Gladiator's Wristguards of Dominance  
+ +   41055 - Botas     -  Furious Gladiator's Sabatons of Salvation
+ +   41075 - Botas     -  Furious Gladiator's Sabatons of Dominance
+ +   41230 - Botas     -  Furious Gladiator's Sabatons of Triumph
+ +
+ +           Cloth
+ +   41909 - Brazal    -  Furious Gladiator's Cuffs of Dominance
+ +   41893 - Brazal    -  Furious Gladiator's Cuffs of Salvation
+ +   41881 - Cinturon  -  Furious Gladiator's Cord of Salvation
+ +   41898 - Cinturon  -  Furious Gladiator's Cord of Dominance
+ +   41903 - Botas     -  Furious Gladiator's Slippers of Dominance
+ +   41885 - Botas     -  Furious Gladiator's Slippers of Salvation
+ +   
+ +   42119 - Anillo 1  -  reletless gladiator´s band of victory
+ +   42117 - Anillo 2  -  Furious Gladiator's Band of Triumph 
+ +   
+ +   
+ +--  Weapons
+ +   45950 - Espada       -  Furious Gladiator's Claymore  
+ +   42318 - Hacha        -  Furious Gladiator's Decapitator
+ +   45957 - Hacha        -  Furious Gladiator's Handaxe
+ +   42256 - Daga         -  Furious Gladiator's Mutilator
+ +   42266 - Arma de puño -  Furious Gladiator's Slasher
+ +   42291 - Espada       -  Furious Gladiator's Quickblade
+ +   42261 - Arma de puño -  Furious Gladiator's Ripper
+ +   42243 - Daga         -  Furious Gladiator's Shanker
+ +   42286 - Espada       -  Furious Gladiator's Slicer
+ +   42232 - Hacha        -  Deadly Gladiator's Chopper
+ +   42228 - Hacha        -  Furious Gladiator's Hacker
+ +   42281 - Maza         -  Furious Gladiator's Bonecracker
+ +   42276 - Maza         -  Furious Gladiator's Pummeler
+ +   42353 - Maza         -  Furious Gladiator's Gavel
+ +   42347 - Daga         -  Furious Gladiator's Spellblade
+ +   42491 - Arco         -  Furious Gladiator's Longbow
+ +   42496 - Ballesta     -  Furious Gladiator's Heavy Crossbow
+ +   42486 - Rifle        -  Furious Gladiator's Rifle
+ +  
+ +     Sigilos
+ +    Shaman
+ +   42608 - Totem        -  totem de indomabilidad de gladiador furioso
+ +   42603 - Totem        -  totem de supervivencia de gladiador furioso
+ +   42598 - Totem        -  totem del tercer aliento de gladiador furioso
+ +      Death knight
+ +   42621 - Sigilo       -  sigilo de desputa de gladiador furioso
+ +       Paladin
+ +   42853 - Tratado      -  tratado sobre entereza de gladiador furioso
+ +   42615 - Tratado      -  tratrado sobre justicia de gladiador furioso
+ +       Druid
+ +   42589 - Idolo        -  idolo de resolucion de gladiador furioso
+ +   42584 - Idolo        -  idolo de teson de gladiador furioso
+ +   42579 - Idolo        -  idolo de tenacidad de gladiador furioso
+ +
+ 
