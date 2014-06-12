@@ -237,4 +237,14 @@
  +   42589 - Idolo        -  idolo de resolucion de gladiador furioso
  +   42584 - Idolo        -  idolo de teson de gladiador furioso
  +   42579 - Idolo        -  idolo de tenacidad de gladiador furioso
+ +
+        Trinkets
+ 
+ +   42133 - Trinket      -  Battlemaster's Fury
+ +   42134 - Trinket      -  Battlemaster´s precision 
+ +   42137 - Trinket      -  Battlemaster´s ruination
+ +   42136 - Trinket      -  Battlemaster´s rage
+ +   42135 - Trinket      -  Battlemaster´s vivacity
+ +   51378 - Trinket      -  Horda Medallon
+ +   51377 - Trinket      -  Ally Medallon
  
