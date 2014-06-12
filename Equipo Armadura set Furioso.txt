@@ -125,14 +125,21 @@
  +   Offset
  +
  +    +-- Offset
- +   46374 - Cuello    -  reletless gladiator´s pendant of sundering
- +   42041 - Cuello    -  reletless gladiator´s pendant of triumph
- +   42042 - Cuello    -  reletless gladiator´s pendant of victory
- +   42081 - Capa      -  reletless gladiator´s cloak of triumph
- +   42082 - Capa      -  reletless gladiator´s cloak of victory 
- +               plate   
+ +   42035 - Cuello    -  Furious Gladiator's Pendant of Victory
+ +   42034 - Cuello    -  Furious Gladiator's Pendant of Triumph
+ +   42036 - Cuello    -  Furious Gladiator's Pendant of Dominance
+ +   42037 - Cuello    -  Furious Gladiator's Pendant of Ascendancy
+ +   42040 - Cuello    -  Furious Gladiator's Pendant of Salvation
+ +   42039 - Cuello    -  Furious Gladiator's Pendant of Deliverance
+ +   42038 - Cuello    -  Furious Gladiator's Pendant of Subjugation 
+ +   46373 - Cuello    -  Furious Gladiator's Pendant of Sundering
+ +   42075 - capa      -  Furious Gladiator's Cloak of Victory
+ +   42074 - capa      -  Furious Gladiator's Cloak of Triumph
+ +   42072 - Capa      -  Furious Gladiator's Cloak of Salvation
+ +   42069 - Capa      -  Furious Gladiator's Cloak of Dominance
+           plate   
  +   40983 - Brazal    -  Furious Gladiator's Bracers of Salvation
- +   40890 - Brazal    -  reletless gladiator´s bracers of triumph
+ +   40889 - Brazal    -  Furious Gladiator's Bracers of Triumph
  +   40976 - Cinturon  -  Furious Gladiator's Girdle of Salvation
  +   40881 - Cinturon  -  Furious Gladiator's Girdle of Triumph
  +   40977 - Botas     -  Furious Gladiator's Greaves of Salvation
@@ -199,6 +206,8 @@
  +   45953 - Baston       -  Furious Gladiator's Combat Staff
  +   42364 - Baston       -  Furious Gladiator's Battle Staff
  +   44421 - Baston       -  Furious Gladiator's War Staff
+ +   42514 - Varita       -  Furious Gladiator's Baton of Light
+ +   42520 - Varita       -  Furious Gladiator's Piercing Touch
  +   
  
  
