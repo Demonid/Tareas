@@ -1,0 +1,320 @@
+ +  Armadura de Ulduar 10
+ 
+ 
+ +  SET
+ 
+ +            Guerrero Dps
+ + 45431 - Yelmo    - Yelmo de rompedor de asedio valeroso
+ + 45433 - Hombros  - Hombreras de placas de rompedor de asedio valerosas 
+ + 45429 - Pecho    - Placa de batalla de rompedor de asedio valerosa  
+ + 45430 - Guantes  - Guanteles de rompedor de asedio valerosos
+ + 45432 - Pantalon - Quijotes de rompedor de asedio valerosos 
+ 
+ +            Guerrero Tanque 
+ + 45425 - Yelmo    - Gran yelmo de rompedor de asedio valeroso 
+ + 45428 - Hombros  - Espaldares de rompedor de asedio valeroso 
+ + 45242 - Pecho    - Coraza de rompedor de asedio valerosa
+ + 45426 - Guantes  - Manoplas de rompeor de asedio valerosas
+ + 45427 - Pantalon - Musleras de rompedor de asedio valerosas
+ 
+ +            Paladin Dps
+ + 45377 - Yelmo    - Yelmo de egida valeroso
+ + 45380 - Hombros  - Hombreras de placas de egida valerosas
+ + 45375 - Pecho    - Placa de batalla de egida valerosas
+ + 45376 - Guantes  - Guanteletes de egida valerosos 
+ + 45379 - Pantalon - Quijotes de egida valerosos 
+ 
+ +            Paladin Tanque
+ + 45382 - Yelmo    - Visera de egida valerosa
+ + 45385 - Hombros  - Guardahombros de egida valerosos
+ + 45381 - Pecho    - Coraza de egida valerosas
+ + 45383 - Guantes  - Manoplas de egida valerosas
+ + 45384 - Pantalon - Musleras de egida valerosas 
+ 
+ +            Paladin Curador
+ + 45372 - Yelmo    - Celada de egida valerosa 
+ + 45373 - Hombros  - Bufas de egida valerosa 
+ + 45374 - Pecho    - Guerrera de egida valerosa 
+ + 45370 - Guantes  - Guantes de egida valerosa  
+ + 45371 - Pantalon - Grebas de egida valerosa 
+ 
+ +            Cazador
+ + 45361 - Yelmo    - Celada de acechador de la plaga valerosa
+ + 45363 - Hombros  - Bufas de acechador de la plaga valerosas
+ + 45364 - Pecho    - Guerra acechador de la plaga valerosa
+ + 45360 - Guantes  - Manoplas acechador de la plaga valerosass
+ + 45362 - Pantalon - Musleras acechador de la plaga valerosas
+ 
+ +            Picaro
+ + 45398 - Yelmo    - Yelmo hoja de terror valeroso
+ + 45400 - Hombros  - Espaldares hoja de terror valeroso
+ + 45396 - Pecho    - Coraza hoja de terror valerosa 
+ + 45397 - Guantes  - Guanteletes hoja de terror valerosos
+ + 45399 - Pantalon - Quijotes hoja de terror valerosos
+ 
+ +            Sacerdote Dps
+ + 45391 - Yelmo    - Aro de santificacion valeroso
+ + 45393 - Hombros  - Manto de santificacion valeroso
+ + 45395 - Pecho    - Vestiduras de santificacion valeroso
+ + 45392 - Guantes  - Manijas de santificacion valerosas
+ + 45394 - Pantalon - Pantalones de santificacion valerosos
+ 
+ +            Sacerdote Curador
+ + 45386 - Yelmo    - Capucha de santificacion valerosa
+ + 45390 - Hombros  - Hombreras de santificacion valerosas 
+ + 45389 - Pecho    - Toga de santificacion valeroso
+ + 45387 - Guantes  - Guantes de santificacion valerosos
+ + 45388 - Pantalon - Leotardos de santificacion valerosos
+ 
+ +            Caballero De La Muerte Dps
+ + 45342 - Yelmo    - Yelmo de runaoscura valeroso
+ + 45344 - Hombros  - Hombreras de placas de runaoscura valerosas
+ + 45340 - Pecho    - Placa de batalla de runaoscura valerosa
+ + 45341 - Guantes  - Guateletes de runaoscura valerosos
+ + 45343 - Pantalon - Quijotes de runaoscura valerosos
+ 
+ +           Caballero De La Muerte Tanque
+ + 45336 - Yelmo    - Visera de runaoscura valerosa 
+ + 45339 - Hombros  - Espaldares de runaoscura valerosos
+ + 45335 - Pecho    - Coselete de runaoscura valeroso
+ + 45337 - Guantes  - Manoplas de runaoscura valerosas
+ + 45338 - Pantalon - Musleras de runaoscura valerosas
+ 
+ +           Chaman Mejora
+ + 45412 - Yelmo    - Visera de rompemundos valerosa
+ + 45415 - Hombros  - Guardahombros de rompemundos valerosa
+ + 45413 - Pecho    - Coraza de rompemundos valerosa 
+ + 45414 - Guantes  - Mandiletes de rompemundos valerosos
+ + 45416 - Pantalon - Falda de guerra de rompemundos valerosa
+ 
+ +           Chaman Curador
+ + 45402 - Yelmo    - Celada de rompemundos valerosa
+ + 45404 - Hombros  - Bufas de rompemundos valerosas
+ + 45405 - Pecho    - Tunica de rompemundos valerosa
+ + 45401 - Guantes  - Manoplas de rompemundos valerosas
+ + 45403 - Pantalon - Musleras de rompemundos valerosas
+
+ +           Chaman Elemental
+ + 45408 - Yelmo    - Yelmo de rompemundos valeroso
+ + 45410 - Hombros  - Hombreras de rompemundos valerosas
+ + 45411 - Pecho    - Camisote de rompemundos valeroso
+ + 45406 - Guantes  - Guantes de rompemundos valerosos
+ + 45409 - Pantalon - Falda de rompemundos valerosa
+ 
+ +            Mago Dps
+ + 45365 - Yelmo    - Caperuza del kirin tor valerosa
+ + 45369 - Hombros  - Hombreras del kirin tor valerosas
+ + 45368 - Pecho    - Guerrera del kirin tor valerosa
+ + 46131 - Guantes  - Guanteletes del kirin tor valerosos
+ + 45367 - Pantalon - Leotardos del kirin tor valerosos
+ 
+ +            Brujo Dps 
+ + 45417 - Yelmo    - Caperuza libramorte valerosa
+ + 45422 - Hombros  - Hombreras libramorte valerosa
+ + 45421 - Pecho    - Toga libramorte valerosa
+ + 45419 - Guantes  - Guantes libramorte valerosos
+ + 45420 - Pantalon - Leotardos libramorte valerosos
+ 
+ +            Druida Feral
+ + 45356 - Yelmo    - Protegecabezas de arrullanoche valeroso
+ + 45359 - Hombros  - Hombreras de arrullanoche valerosas
+ + 45358 - Pecho    - Vestiduras de arrullanoche valerosas
+ + 45355 - Guantes  - Luas de arrullanoche valerosas
+ + 45357 - Pantalon - Musleras de arrullanoche valerosas
+ 
+ +            Druida Restauracion 
+ + 45346 - Yelmo    - Celada de arrullanoche valerosa
+ + 45349 - Hombros  - Bufas de arrullanoche valerosas
+ + 45348 - Pecho    - Toga de arrullanoche valerosa 
+ + 45345 - Guantes  - Manoplas de arrullanoche valerosas
+ + 45347 - Pantalon - Leotardos de arrullanoche valerosos
+ 
+ +           Druida Balance 
+ + 46313 - Yelmo    - Casquete de arrullanoche valeroso
+ + 45352 - Hombros  - Manto de arrullanoche valeroso
+ + 45354 - Pecho    - Estmentas de arrullanoche valerosas
+ + 45351 - Guantes  - Guantes de arrullanoche valerosos
+ + 45353 - Pantalon - Calzas de arrullanoche valerosas
+ 
+ + OFF SET
+
+ + 45285 - Cuello   - Poderio del Leviatan
+ + 45696 - Cuello   - Marca del implacable
+ + 45699 - Cuello   - Colgante de la mirada penetrante
+ + 46047 - Cuello   - Colgante del testigo sombrio
+ + 46040 - Cuello   - Fuerza de los cielos
+ + 46008 - Cuello   - Gargantilla del abismo
+ + 46015 - Cuello   - Colgante de desesperacion infinita
+ + 46022 - Cuello   - Colgante de las mil fauces
+ + 46343 - Cuello   - Fervor del Protectorado
+ + 45317 - Capa     - Chal del custodio
+ + 45318 - Capa     - Manton de enojo humeante
+ + 45322 - Capa     - Capa del Consejo de Hierro
+ + 45704 - Capa     - Chal del gigante devastado
+ + 46042 - Capa     - Manton del mensajero
+ + 45873 - Capa     - Abrazo gelido del invierno
+ + 45973 - Capa     - Manteo de poder con estilo
+ + 46014 - Capa     - Capa de animus de saronita
+ + 46341 - Capa     - Manton del tejehechizos
+ + 46347 - Capa     - Capa de la llamarada latente
+ 
+ +           Placas 
+ + 45680 - Brazal   - Bandas del ensamblaje
+ + 46345 - Brazal   - Brazales de reformación recta
+ + 45888 - Brazal   - Guardabrazos de frío amargo
+ + 45283 - Brazal   - Guardabrazos de guerda de llamas
+ + 45975 - Cinturón - Cable del Metrognomo
+ + 45304 - Cinturón - Faja templada en tormenta
+ + 45824 - Cinturón - Cinturón de la hoja de canto
+ + 45698 - Botas    - Escarpes del Vigía de Hierro
+ + 45330 - Botas    - Grebas de intensidad de hierro
+ + 45542 - Botas    - Grebas del guardaescudos
+ 
+ +           Cuero
+ + 46009 - Brazal   - Ataduras de las profundidades
+ + 45108 - Brazal   - Brazales de mecanicista
+ + 45709 - Cinturón - Cinturón de escalador liviano
+ + 45548 - Cinturón - Cinturón del durmiente
+ + 45185 - Cinturón - Cincho de Forjallamas
+ + 45260 - Botas    - Botas de reavivación apresurada
+ + 45378 - Botas    - Botas del bosque petrificado
+ + 45302 - Botas    - Botines del invasor
+ 
+ +           Malla
+ + 45301 - Brazal   - Vrazales del infierno asfixiante
+ + 45316 - Brazal   - Ajorcas de la llma vibrante
+ + 45454 - Brazal   - Brazales de anillas vinculados a la escarcha
+ + 45333 - Cinturón - Cinturon del sirviente ferreo
+ + 45151 - Cinturón - Cinturón de la vermis caída
+ + 45827 - Cinturón - Cinturón del tirador candente
+ + 46346 - Botas    - Botas de la presa intranquila
+ + 45701 - Botas    - Grebas del vinculador terrestre 
+ 
+ +           Tela
+ + 45423 - Brazal   - Cubremuñecas de toquerruna
+ + 45291 - Brazal   - Brazales de Combustión
+ + 45306 - Cinturón - Atadura de la matriarca de dragones
+ + 45557 - Cinturón - Fajín de Poder antiguo
+ + 46030 - Botas    - Botines del consejo del dragón
+ + 46050 - Botas    - Botines de luz estelar
+ 
+ + 45303 - Anillo   - Sortija de astucia draconica
+ + 45675 - Anillo   - Anillo de mejora de poder
+ + 45418 - Anillo   - Anillo de zafiros de Lady Maye
+ + 45702 - Anillo   - Sello de esmeralda
+ + 46048 - Anillo   - Sortija de luces
+ + 46046 - Anillo   - Sortija de nebulosa
+ + 45874 - Anillo   - Sello de invierno
+ + 46010 - Anillo   - Anillo de roca negra
+ 
+ + ARMAS
+ 
+ + 45282 - Maza          - Alma de hierro
+ + 45287 - Espada        - Alma de fuego
+ + 45296 - Arrojadiza    - Hojas giratorias
+ + 45284 - Arma puño     - Destripadora cinetica
+ + 45298 - Espada        - Garfa de Tajoescama
+ + 45311 - Arma de asta  - Filo Incansable 
+ + 45309 - Arma de fuego - Rifle del guardia platino
+ + 45685 - Daga          - Hoja de plasma 
+ + 45682 - Escudo        - Escudo de hechizos pulsante
+ + 45331 - Espada        - Hoja de la noche con grabados de runas
+ + 45332 - Daga          - Punta de tormenta
+ + 45695 - Baston        - Aguja de sueños fulminantes
+ + 45700 - Espada        - Guardapiedra
+ + 45707 - Escudo        - Escudo muro del ultrajador
+ + 45713 - Varita        - Toque de nutricion
+ + 45458 - Hacha         - Filo de tempestad
+ + 45892 - Maza          - Legado del trueno
+ + 45934 - Baston        - Alcance de dilucidación
+ + 45996 - Arma de asta  - Otorgador de esperanza
+ + 46011 - Daga          - Mordisco de las Sombras
+ + 46018 - Ballesta      - Liberacion
+ + 46025 - Baston        - Devocion
+ + 46031 - Hacha         - Toque de locura
+ + 46016 - Espada        - Abadon
+ + 46024 - Daga          - Perdicion de Reyes
+ + 46342 - Arco          - Arco largo de corazon de golem
+ + 46350 - Baston        - Pilar de entereza
+ + 46351 - Maza          - Cayada de muelesangre
+ + 46339 - Arma de fuego - Rifle de repeticion de Mimiron
+ + 45872 - Arco          - Avalancha 
+ + 45972 - Maza          - Bordon de pulso
+ 
+ + Sigilos
+ + 45144 - Sigilo  - Sigilo de desvio
+ + 45254 - Sigilo  - Sigilo del corazon vengativo
+ + 45114 - Totem   - Totem de clamavapor
+ + 45255 - Totem   - Totem de truenotoño
+ + 45169 - Totem   - Totem de la llama danzarina
+ + 45509 - Idolo   - Idolo del corruptor
+ + 46138 - Idolo   - Idolo de la vida floreciente
+ + 45270 - Idolo   - Idolo del viento aullador
+ + 45436 - Tratado - Tratado sobre resolucion
+ + 45510 - Tratado - Tratado sobre discordia
+ + 45510 - Tratado - Tratado sobre discordia
+ 
+ 
+ +  Abalorios
+ + 45292 - Abalorio - Succion de energia
+ + 45286 - Abalorio - Inyector de pirita 
+ + 45308 - Abalorio - Ojo de la madre de linaje
+ + 45313 - Abalorio - Piedra de caldera
+ + 45703 - Abalorio - Chispa de esperanza
+ + 46038 - Abalorio - Materia oscura
+ + 46051 - Abalorio - Cristal de meteorito
+ + 46021 - Abalorio - Sello real del rey llane
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
