@@ -1,0 +1,206 @@
+﻿// Set PvP S8 to S7
+
+// PvP Shoulders s8 to s7
+                    case 51418: return 40871; -- Death Knight
+                    case 51430: return 41716; -- Druid Feral 
+                    case 51424: return 41276; -- Druid restoration
+                    case 51438: return 41282; -- Druid balance
+                    case 51462: return 41218; -- Hunter
+                    case 51467: return 41966; -- Mage
+                    case 51473: return 40964; -- Paladin sacred
+                    case 51479: return 40872; -- Paladin Reprecion
+                    case 51941: return 41935; -- Priest shadow
+                    case 51486: return 41870; -- Priest sacred
+                    case 51496: return 41684; -- Rogue 
+                    case 51514: return 41045; -- Shaman elementary
+                    case 51508: return 41212; -- Shaman improves
+                    case 51502: return 41039; -- Shaman restoration
+                    case 51540: return 42012; -- warlock
+                    case 51545: return 40870; -- Warrior
+// PvP chest s8 to s7
+                    case 51413: return 40791; -- Death Knight
+                    case 51425: return 41662; -- Druid Feral 
+                    case 51419: return 41311; -- Druid restoration
+                    case 51433: return 41317; -- Druid balance
+                    case 51458: return 41088; -- Hunter
+                    case 51463: return 41954; -- Mage
+                    case 51468: return 40910; -- Paladin sacred
+                    case 51474: return 40792; -- Paladin Reprecion
+                    case 51487: return 41922; -- Priest shadow
+                    case 51482: return 41860; -- Priest sacred
+                    case 51492: return 41651; -- Rogue 
+                    case 51509: return 40995; -- Shaman elementary
+                    case 51503: return 41082; -- Shaman improves
+                    case 51497: return 40994; -- Shaman restoration
+                    case 51536: return 41999; -- warlock
+                    case 51541: return 40790; -- Warrior
+// PvP manos s8 to s7
+                    case 51414: return 40811; -- Death Knight
+                    case 51426: return 41774; -- Druid Feral 
+                    case 51420: return 41288; -- Druid restoration
+                    case 51434: return 41294; -- Druid balance
+                    case 51459: return 41144; -- Hunter
+                    case 51464: return 41972; -- Mage
+                    case 51469: return 40928; -- Paladin sacred
+                    case 51475: return 40812; -- Paladin Reprecion
+                    case 51488: return 41941; -- Priest shadow
+                    case 51483: return 41875; -- Priest sacred
+                    case 51493: return 41768; -- Rogue 
+                    case 51510: return 41008; -- Shaman elementary
+                    case 51504: return 41138; -- Shaman improves
+                    case 51498: return 41002; -- Shaman restoration
+                    case 51537: return 42018; -- warlock
+                    case 51542: return 40810; -- Warrior
+// PvP pantalon s8 to s7
+                    case 51416: return 40851; -- Death Knight
+                    case 51428: return 41668; -- Druid Feral 
+                    case 51422: return 41299; -- Druid restoration
+                    case 51436: return 41305; -- Druid balance
+                    case 51461: return 41206; -- Hunter
+                    case 51466: return 41960; -- Mage
+                    case 51471: return 40940; -- Paladin sacred
+                    case 51477: return 40852; -- Paladin Reprecion
+                    case 51490: return 41928; -- Priest shadow
+                    case 51485: return 41865; -- Priest sacred
+                    case 51495: return 41656; -- Rogue 
+                    case 51512: return 41034; -- Shaman elementary
+                    case 51506: return 41028; -- Shaman improves
+                    case 51500: return 41028; -- Shaman restoration
+                    case 51539: return 42006; -- warlock
+                    case 51544: return 40850; -- Warrior
+// PvP head s8 to s7
+                    case 51415: return 40830; -- Death Knight
+                    case 51427: return 41679; -- Druid Feral 
+                    case 51421: return 41322; -- Druid restoration
+                    case 51435: return 41328; -- Druid balance
+                    case 51460: return 41158; -- Hunter
+                    case 51465: return 41947; -- Mage
+                    case 51470: return 40934; -- Paladin sacred
+                    case 51476: return 40831; -- Paladin Reprecion
+                    case 51489: return 41916; -- Priest shadow
+                    case 51484: return 41855; -- Priest sacred
+                    case 51494: return 41673; -- Rogue 
+                    case 51511: return 41020; -- Shaman elementary
+                    case 51505: return 41152; -- Shaman improves
+                    case 51499: return 41014; -- Shaman restoration
+                    case 51538: return 41994; -- warlock
+                    case 51543: return 40829; -- Warrior
+
+// Offset S8 to S7
+
+// PvP Muñecas s8 to s7
+                    case 51329: return 41910; -- Tela Critico
+                    case 51367: return 41894; -- Tela Espiritu
+                    case 51339: return 49181; -- Tela Celeridad
+                    case 51345: return 41641; -- Cuero Caster
+                    case 51342: return 41626; -- Cuero Holy
+                    case 51370: return 41841; -- Cuero Agilidad
+                    case 51376: return 41066; -- Malla Caster
+                    case 51373: return 41061; -- Malla Holy
+                    case 51352: return 41226; -- Malla Agilidad
+                    case 51361: return 40984; -- Placas Holy
+                    case 51364: return 40890; -- Placas Fuerza
+// PvP Cintura s8 to s7
+                    case 51327: return 41899; -- Tela Critico
+                    case 51365: return 41882; -- Tela Espiritu
+                    case 51337: return 49179; -- Tela Celeridad
+                    case 51343: return 41631; -- Cuero Caster
+                    case 51340: return 41618; -- Cuero Holy
+                    case 51368: return 41833; -- Cuero Agilidad
+                    case 51374: return 41071; -- Malla Caster
+                    case 51371: return 41052; -- Malla Holy
+                    case 51350: return 41236; -- Malla Agilidad
+                    case 51359: return 40978; -- Placas Holy
+                    case 51362: return 40883; -- Placas Fuerza
+// PvP pies s8 to s7
+                    case 51328: return 41904; -- Tela Critico
+                    case 51366: return 41886; -- Tela Espiritu
+                    case 51338: return 49183; -- Tela Celeridad
+                    case 51344: return 41636; -- Cuero Caster
+                    case 51341: return 41622; -- Cuero Holy
+                    case 51369: return 41837; -- Cuero Agilidad
+                    case 51375: return 41076; -- Malla Caster
+                    case 51372: return 41056; -- Malla Holy
+                    case 51351: return 41231; -- Malla Agilidad
+                    case 51360: return 40979; -- Placas Holy
+                    case 51363: return 40884; -- Placas Fuerza
+// PvP Capa s8 to s7
+                    case 51334: return 42078; -- Intelecto Indice de Golpe
+                    case 51348: return 42080; -- Espiritu
+                    case 51330: return 42076; -- Intelecto Critico
+                    case 51346: return 42079; -- Intelecto Mp5
+                    case 51332: return 42077; -- Intelecto Celeridad
+                    case 51354: return 42081; -- Aguante Critico
+                    case 51356: return 42118; -- Aguante Indice Golpe
+// PvP Anillos s8 to s7
+                    case 51336: return 42118; -- Intelecto Indice de Golpe
+                    case 51358: return 42119; -- Aguante
+// PvP Cuello s8 to s7
+                    case 51335: return 42044; -- Intelecto Indice de Golpe
+                    case 51349: return 42046; -- espiritu
+                    case 51331: return 42043; -- intelento critico
+                    case 51347: return 42047; -- Intelecto Mp5
+                    case 51333: return 42045; -- Intelecto Celeridad
+                    case 51353: return 46374; -- Aguante Penetracion
+                    case 51355: return 42041; -- Aguante Critico
+                    case 51357: return 42042; -- Aguante Indice Golpe
+                    
+// S8 T2 Weapons to S7 T2
+                    case 51389: return 48402; // Hacha 2 Manos
+                    case 51391: return 42234; // Maza 2 Manos
+                    case 51393: return 48406; // Espada 2 Manos
+                    case 51398: return 49191; // Daga Haste Caster
+                    case 51399: return 48408; // Daga Crit Caster
+                    case 51442: return 48428; // Daga Off Hand 1.4
+                    case 51518: return 48509; // Daga Main Hand 1.8
+                    case 51528: return 48442; // Daga Off Hand 1.8
+                    case 51444: return 48515; // Puño Off Hand 1.5
+                    case 51524: return 48444; // Puño Main Hand 2.6
+                    case 51529: return 48432; // Puño Off Hand 2.6
+                    case 51440: return 48426; // Hacha Off Hand 1.8
+                    case 51516: return 48507; // Hacha Main Hand 2.6
+                    case 51526: return 48440; // Hacha Off Hand 2.6
+                    case 51446: return 48435; // Maza Off Hand 1.8
+                    case 51454: return 48519; // Maza Main Hand 1.6
+                    case 51520: return 48511; // Maza Main Hand 2.6
+                    case 51448: return 48438; // Espada Off Hand 1.8
+                    case 51522: return 48513; // Espada Main Hand 2.6
+                    case 51481: return 48517; // Lanza
+                    case 51401: return 48414; // Bastón Haste Caster
+                    case 51403: return 48412; // Bastón Hit Caster
+                    case 51405: return 48410; // Bastón Crit Caster
+                    case 51432: return 48523; // Bastón Agility
+                    case 51457: return 48521; // Bastón Spirit
+                    case 51412: return 48422; // Ballesta
+                    case 51450: return 48424; // Escopeta
+                    case 51395: return 48420; // Arco
+// S8 T1 Weapons to S7 T1
+                    case 51388: return 42319; // Hacha 2 Manos
+                    case 51390: return 42324; // Maza 2 Manos
+                    case 51392: return 42334; // Espada 2 Manos
+                    case 51406: return 49189; // Daga Haste Caster
+                    case 51397: return 42348; // Daga Crit Caster
+                    case 51441: return 42250; // Daga Off Hand 1.4
+                    case 51517: return 42244; // Daga Main Hand 1.8
+                    case 51527: return 42257; // Daga Off Hand 1.8
+                    case 51443: return 48432; // Puño Off Hand 1.5
+                    case 51523: return 42262; // Puño Main Hand 2.6
+                    case 51530: return 42267; // Puño Off Hand 2.6
+                    case 51439: return 42229; // Hacha Off Hand 1.8
+                    case 51515: return 48507; // Hacha Main Hand 2.6
+                    case 51525: return 48440; // Hacha Off Hand 2.6
+                    case 51445: return 42282; // Maza Off Hand 1.8
+                    case 51453: return 42354; // Maza Main Hand 1.6
+                    case 51519: return 42277; // Maza Main Hand 2.6
+                    case 51447: return 42292; // Espada Off Hand 1.8
+                    case 51521: return 42287; // Espada Main Hand 2.6
+                    case 51480: return 42329; // Lanza
+                    case 51400: return 44423; // Bastón Haste Caster
+                    case 51402: return 44424; // Bastón Hit Caster
+                    case 51404: return 42366; // Bastón Crit Caster
+                    case 51431: return 42392; // Bastón Agility
+                    case 51456: return 42386; // Bastón Spirit
+                    case 51411: return 42498; // Ballesta
+                    case 51449: return 42487; // Escopeta
+                    case 51394: return 42492; // Arco
+                    default:
